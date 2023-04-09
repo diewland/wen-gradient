@@ -1,0 +1,24 @@
+{
+  "name": "WEN Gradient #1",
+  "description": "Welcome everyone to Utopian, a land of hope where people from each race guard in peace but for each realm to survive was an ideal. It was impossible for everyone to live together for a long time without conflict. Like the land of hope Due to natural disaster, make a limited resources. Affecting every race that must plan within to survive in the land of Utopian.",
+  "image": "ipfs://bafkreic252kqupnbjkolssmda525pnrfc7t5uffouobtsmyqsi6ujtxncq",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "PUAYPUAY"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Gem",
+      "value": "Topaz"
+    }
+  ],
+  "compiler": "Jigsaw Engine"
+}
